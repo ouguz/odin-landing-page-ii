@@ -6,10 +6,6 @@
     padding: 0;
 }
 
-
-
-.matching {}
-
 .header {
     display: flex;
     background-color: #1F2937;
@@ -32,10 +28,10 @@ li {
     display: flex;
     background-color: #1F2937;
     color: #F9FAF8;
-    gap: 200px;
-    justify-content: center;
+    justify-content: space-evenly;
     height: 40vh;
     align-items: center;
+
 }
 
 .first-part {
